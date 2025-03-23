@@ -24,7 +24,7 @@
 - Node.js | Express.js | MongoDB  
 
 ### **Blockchain Development**  
-- Solidity | Rust | Web3.js | Truffle | IPFS  
+- Solidity | Rust | Web3.js | Truffle | IPFS | Foundry 
 
 ### **Cloud & Deployment**  
 - Render | Vercel | AWS Services | IPFS Storage  
@@ -39,10 +39,12 @@
 
 ## 🚀 Featured Projects  
 
-### 🔗 **Blockchain & DeFi Projects**  
+### 🔗 **Blockchain Projects**  
 - **Uniswap Swap** - Custom implementation of Uniswap swapping mechanism  
 - **Blockchain Voting System** - A decentralized voting platform using Ethereum  
-- **Supply Chain on Agriculture** - Transparent food supply chain tracking  
+- **Supply Chain on Agriculture** - Transparent food supply chain tracking
+- **Flight Booking system**- This platform provides to book and maintain Flight Tickets
+- **Defi Protocols **- Implmentation of the real time defi protocols
 
 ### 🌐 **MERN Stack & Web Projects**  
 - **Student Portfolio** - Interactive student showcase & networking platform  
