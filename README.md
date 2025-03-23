@@ -2,7 +2,7 @@
   Hi there 👋, I'm Uday Kiran Pedda  
 </h1>
 
-<h3 align="center">🚀 MERN Stack Developer | Ethereum Blockchain Auditor</h3>
+<h3 align="center">🚀 MERN Stack Developer |  Blockchain </h3>
 
 ---
 
@@ -10,7 +10,8 @@
 💡 Passionate about **Web Development** & **Blockchain Security**  
 🔭 Currently working on **Smart Contract Auditing & DeFi Projects**  
 📚 Learning **Advanced Solidity & DeFi Protocol Security**  
-🤝 Open to collaborating on **Blockchain & MERN stack projects**  
+📚 Smart contracts in ** Solidity & Rust** 
+🤝 Open to collaborating on **Blockchain & MERN stack projects**
 
 ### 🌍 **Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/uday-kiran-pedda-65aa73271)  
