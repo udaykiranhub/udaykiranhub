@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Uday Kiran Pedda</h1>  
-<h3 align="center">🚀 MERN Stack Developer | Blockchain Auditor | DeFi Enthusiast</h3>  
+<h3 align="center">🚀 MERN Stack Developer | Blockchain  | Auditor</h3>  
 
 ---
 
