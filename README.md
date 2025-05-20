@@ -11,7 +11,7 @@
 
 📩 **Email:** peddaudaykiran1@gmail.com  
 📞 **Phone:** +91 6305355185  
-📝 **Blog:** [Blockchain Insights](https://udaykiranhub.github.io/udaykiranpedda-blog/)  
+📝 **Security Blog:** [Blockchain Insights](https://blockchainsecurity-udaykiranpedda.netlify.app/)  
 
 ---
 
