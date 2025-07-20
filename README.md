@@ -11,7 +11,7 @@
 
 📩 **Email:** peddaudaykiran1@gmail.com  
 📞 **Phone:** +91 6305355185  
-📝 **Security Blog:** [Blockchain Insights](https://blockchainsecurity-udaykiranpedda.netlify.app/)  
+📝 **Portfolio:** [Blockchain Insights](https://udaykiranhub.github.io/portfolio/)  
 
 ---
 
@@ -24,7 +24,7 @@
 - Node.js | Express.js | MongoDB  
 
 ### **Blockchain Development**  
-- Solidity | Rust | Web3.js | Truffle | IPFS | Foundry 
+- Solidity | EVM chains | Web3.js | Truffle | IPFS | Foundry 
 
 ### **Cloud & Deployment**  
 - Render | Vercel | AWS Services | IPFS Storage  
@@ -33,7 +33,7 @@
 - Razorpay Payment Gateway  
 
 ### **Languages**  
-- JavaScript | Python | Solidity | Rust  
+- JavaScript | Python | Solidity 
 
 ---
 
