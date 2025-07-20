@@ -11,7 +11,7 @@
 
 📩 **Email:** peddaudaykiran1@gmail.com  
 📞 **Phone:** +91 6305355185  
-📝 **Portfolio:** [Blockchain Insights](https://udaykiranhub.github.io/portfolio/)  
+📝 **Portfolio:** [View](https://udaykiranhub.github.io/portfolio/)  
 
 ---
 
