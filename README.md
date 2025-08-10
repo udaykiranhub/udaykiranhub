@@ -6,7 +6,7 @@
 ## 📌 About Me  
 💡 Passionate about **Blockchain Security & Web Development**  
 🔍 Actively participating in **CodeHawks , Code4rena  and Cantina Audits**  
-📚 Learning **Advanced Solidity, DeFi and NFT **  
+📚 Learning **Advanced Solidity, DeFi and NFT**  
 🛠️ Working on **MERN Stack & Blockchain-based Solutions**  
 
 📩 **Email:** peddaudaykiran1@gmail.com  
