@@ -5,8 +5,8 @@
 
 ## 📌 About Me  
 💡 Passionate about **Blockchain Security & Web Development**  
-🔍 Actively participating in **CodeHawks & Code4rena Audits**  
-📚 Learning **Advanced Solidity, DeFi, and Rust**  
+🔍 Actively participating in **CodeHawks , Code4rena  and Cantina Audits**  
+📚 Learning **Advanced Solidity, DeFi and NFT **  
 🛠️ Working on **MERN Stack & Blockchain-based Solutions**  
 
 📩 **Email:** peddaudaykiran1@gmail.com  
@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack  
 
 ### **Frontend Development**  
-- React.js | Bootstrap | Material UI  
+- React.js | Bootstrap | Redux | Tailwind  
 
 ### **Backend Development**  
 - Node.js | Express.js | MongoDB  
@@ -43,7 +43,7 @@
 - **Uniswap Swap** - Custom implementation of Uniswap swapping mechanism  
 - **Blockchain Voting System** - A decentralized voting platform using Ethereum  
 - **Supply Chain on Agriculture** - Transparent food supply chain tracking
-- **Flight Booking system**- This platform provides to book and maintain Flight Tickets
+- **Multisig Wallet**- Users can manage their assets
 - **Defi Protocols **- Implmentation of the real time defi protocols
 
 ### 🌐 **MERN Stack & Web Projects**  
