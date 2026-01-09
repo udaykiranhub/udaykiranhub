@@ -11,6 +11,8 @@
 📩 Email: peddaudaykiran1@gmail.com  
 📞 Phone: +91 6305355185  
 📝 Portfolio: https://udaykiranhub.github.io/portfolio/  
+📝Security-Blog : https://blockchainsecurity-udaykiranpedda.netlify.app/
+📝Linkedin : https://www.linkedin.com/in/uday-kiran-pedda-65aa73271
 
 🛠️ Tech Stack  
 
