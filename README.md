@@ -1,60 +1,177 @@
-👋 Hi, I'm Uday Kiran Pedda  
-🚀 MERN Stack Developer | Blockchain Developer | Smart Contract Auditor  
+# Hi there 👋 I'm Uday Kiran Pedda
 
-📌 About Me  
-💡 Passionate about blockchain security and full-stack web development  
-🔍 Active participant in CodeHawks, Code4rena, and Cantina audits  
-📚 Currently learning advanced Solidity, DeFi protocols, and NFTs  
-🛠️ Building secure MERN stack and blockchain-based solutions  
-💡Confirmed 5+ findings in the security contests
+## Smart Contract Security Researcher | Blockchain Developer | MERN Stack Developer
 
-📩 Email: peddaudaykiran1@gmail.com  
-📞 Phone: +91 6305355185  
-📝 Portfolio: https://udaykiranhub.github.io/portfolio/  
-📝Security-Blog : https://blockchainsecurity-udaykiranpedda.netlify.app/
+I'm a Web3 Security Researcher focused on building secure decentralized systems, discovering smart contract vulnerabilities, and developing AI-powered security tools for blockchain ecosystems.
 
-📝Linkedin : https://www.linkedin.com/in/uday-kiran-pedda-65aa73271
+I actively participate in competitive smart contract audits and enjoy breaking protocols before attackers do.
 
-🛠️ Tech Stack  
+---
 
-**Frontend**  
-React.js | Redux | Tailwind CSS | Bootstrap  
+## 🔥 What I Do
 
-**Backend**  
-Node.js | Express.js | MongoDB  
+🔍 Smart Contract Auditing & Security Research
 
-**Blockchain**  
-Solidity | Ethereum (EVM) | Web3.js | Foundry | Truffle | IPFS  
+- Code4rena SR Warden
+- Active Security Researcher on:
+  - Code4rena
+  - Cantina
+  - HackenProof
+  - Sherlock
+- 20+ security findings across multiple competitive audits
+- Experience identifying:
+  - Reentrancy
+  - Oracle Manipulation
+  - Liquidation Issues
+  - Flash Loan Attacks
+  - Access Control Bugs
+  - Business Logic Vulnerabilities
 
-**Cloud & Deployment**  
-AWS | Vercel | Hostinger| IPFS Storage  
+---
 
-**Payments & Integrations**  
-Razorpay  and Stripe Payment Gateway 
+## 🚀 Currently Building
 
-**Languages**  
-JavaScript | Python | Solidity  | Node js 
+### 🛡️ Web3 Security Learning Platform
 
-🚀 Featured Projects  
+A practical learning platform that teaches:
 
-**Blockchain Projects**  
-• Uniswap Swap – Custom implementation of Uniswap swapping mechanics  
-• Blockchain Voting System – Decentralized voting platform on Ethereum  
-• Agricultural Supply Chain – Transparent food supply chain tracking  
-• Multisig Wallet – Secure asset management with multiple signers  
-• DeFi Protocol Implementations – Core DeFi mechanisms with a focus on security  
+- Smart Contract Auditing
+- Solidity Security
+- DeFi Security
+- Real Audit Reports
+- Interactive Labs
+- Vulnerability Playground
+- AI-assisted Learning
 
-**MERN Stack & Web Projects**  
-• Student Portfolio – Interactive student showcase and networking platform  
-• E-Commerce Platform – Full-stack online store with payment integration  
-• School Management System – Digital administration platform  
+---
 
-🔗 More Projects: GitHub Portfolio  
+### 🤖 AI Security Tools
 
-📈 GitHub Stats  
-📊 Contribution Activity  
+Developing AI-powered tools for blockchain security including:
 
-🌍 Connect with Me  
-LinkedIn  | GitHub  
+- Smart Contract Review Agents
+- AI Vulnerability Detection
+- Audit Report Generation
+- Security Knowledge Retrieval
+- Solidity Code Analysis
+- Automated Threat Modeling
 
-🚀 *Building decentralized solutions for a transparent future*
+---
+
+## 💻 Tech Stack
+
+### Blockchain
+
+- Solidity
+- Ethereum
+- EVM
+- ERC20
+- ERC721
+- ERC1155
+- Foundry
+- Hardhat
+- Truffle
+- Web3.js
+- IPFS
+
+### Security
+
+- Smart Contract Auditing
+- Manual Code Review
+- Foundry Testing
+- Fuzz Testing
+- Invariant Testing
+- Slither
+- Exploit Development
+- Threat Modeling
+
+### Full Stack
+
+**Frontend**
+
+- React.js
+- Redux
+- Tailwind CSS
+- Bootstrap
+
+**Backend**
+
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- JWT Authentication
+
+### Cloud & DevOps
+
+- AWS
+- Vercel
+- Render
+- Hostinger
+- Git
+- GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ Security
+
+- Over-Collateralized Stablecoin Protocol
+- Automated Market Maker (AMM)
+- Smart Contract Audit Reports
+- Solidity Security PoCs
+- Exploit Demonstrations
+
+### 🌐 Blockchain
+
+- MultiSig Wallet
+- Blockchain Voting System
+- Agricultural Supply Chain
+- DeFi Protocol Implementations
+
+### 💻 MERN
+
+- E-Commerce Platform
+- Student Portfolio Platform
+- School Management System
+
+---
+
+## 📈 GitHub Goals (2026)
+
+- Build the best Web3 Security Learning Platform
+- Release open-source AI Security Agents
+- Publish high-quality audit reports
+- Contribute to leading DeFi protocols
+- Help developers build secure smart contracts
+
+---
+
+## 📚 Currently Learning
+
+- Advanced DeFi Architectures
+- Cross-chain Security
+- Zero-Knowledge Proofs
+- Formal Verification
+- AI Agents for Security Research
+- Automated Smart Contract Analysis
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: **peddaudaykiran1@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/uday-kiran-pedda-65aa73271
+
+🌐 Portfolio:
+https://udaykiranhub.github.io/portfolio/
+
+📝 Security Blog:
+https://blockchainsecurity-udaykiranpedda.netlify.app/
+
+---
+
+> "Secure Code. Secure Protocols. Secure Future."
