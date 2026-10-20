@@ -1,177 +1,77 @@
-# Hi there 👋 I'm Uday Kiran Pedda
+# Uday Kiran Pedda
 
-## Smart Contract Security Researcher | Blockchain Developer | MERN Stack Developer
+**Smart Contract Security Researcher · DeFi · EVM**
 
-I'm a Web3 Security Researcher focused on building secure decentralized systems, discovering smart contract vulnerabilities, and developing AI-powered security tools for blockchain ecosystems.
+I investigate security assumptions in smart contracts and DeFi protocols, focusing on protocol logic, accounting invariants, economic constraints, and state transitions.
 
-I actively participate in competitive smart contract audits and enjoy breaking protocols before attackers do.
+My research combines manual code review, protocol-level threat modeling, hypothesis-driven investigation, and Foundry-based validation.
 
----
-
-## 🔥 What I Do
-
-🔍 Smart Contract Auditing & Security Research
-
-- Code4rena SR Warden
-- Active Security Researcher on:
-  - Code4rena
-  - Cantina
-  - HackenProof
-  - Sherlock
-- 20+ security findings across multiple competitive audits
-- Experience identifying:
-  - Reentrancy
-  - Oracle Manipulation
-  - Liquidation Issues
-  - Flash Loan Attacks
-  - Access Control Bugs
-  - Business Logic Vulnerabilities
+[GitHub](https://github.com/udaykiranhub) · [Code4rena](https://code4rena.com/@udaykiranpedda) · [Cantina](https://cantina.xyz/u/udaykiranpedda) · [Immunefi](https://immunefi.com/profile/udaykiranhub/) · [HackenProof](https://hackenproof.com/hackers/udaykiranhub/)
 
 ---
 
-## 🚀 Currently Building
+## Security Results
 
-### 🛡️ Web3 Security Learning Platform
+| Platform | Protocol | Findings / severity | Contest rank / reward | Public record |
+|---|---|---|---|---|
+| Code4rena | Olas | 2 High · 1 Medium | #38 | [Profile](https://code4rena.com/@udaykiranpedda) |
+| Code4rena | Intuition | 1 Medium | #4 | [Profile](https://code4rena.com/@udaykiranpedda) |
+| Code4rena | Chainlink Payment Abstraction V2 | 1 Medium | #11 | [Profile](https://code4rena.com/@udaykiranpedda) |
+| Cantina | Kuru Labs | 3 submissions listed | 20 / 67 · $605 | [Profile](https://cantina.xyz/u/udaykiranpedda) |
+| Cantina | Revert Finance — Lending | 1 submission listed | 4 / 59 · $154 | [Profile](https://cantina.xyz/u/udaykiranpedda) |
+| Cantina | Revert Finance — StableSwap Hooks | 3 submissions listed | 26 / 269 · $108 | [Profile](https://cantina.xyz/u/udaykiranpedda) |
+| Cantina | Reserve Protocol — Governor | 3 submissions listed | 5 / 129 · $86 | [Profile](https://cantina.xyz/u/udaykiranpedda) |
+| HackenProof | Not publicly disclosed | 1 High · 1 Medium paid report | $89.62 total profile earnings | [Profile](https://hackenproof.com/hackers/udaykiranhub/) |
+| Immunefi | Firelight audit competition | See public competition record | $1 shown on leaderboard | [Leaderboard](https://immunefi.com/audit-competition/audit-comp-firelight-1/leaderboard/) |
 
-A practical learning platform that teaches:
+*Code4rena severities reflect the public profile. Cantina submission counts are not asserted to be accepted findings. HackenProof does not publicly disclose the report names on the profile. Immunefi leaderboard figures are not presented as a confirmed bounty-program finding.*
 
-- Smart Contract Auditing
-- Solidity Security
-- DeFi Security
-- Real Audit Reports
-- Interactive Labs
-- Vulnerability Playground
-- AI-assisted Learning
+## Research Focus
 
----
+- **DeFi security:** lending, borrowing, vaults, liquidations, and collateral management
+- **Accounting invariants:** asset/share consistency, debt tracking, fees, and balance transitions
+- **Oracle and risk validation:** price assumptions, validation boundaries, and recovery paths
+- **State-transition security:** cross-contract interactions, callbacks, reminting, and automation
+- **Adversarial testing:** Foundry PoCs, fuzzing, invariant testing, and regression tests
 
-### 🤖 AI Security Tools
+## Research Approach
 
-Developing AI-powered tools for blockchain security including:
+1. **Model the protocol** — identify actors, assets, permissions, dependencies, and state transitions.
+2. **Define independent invariants** — specify what must remain true without simply mirroring the implementation.
+3. **Form falsifiable hypotheses** — state attacker capabilities, preconditions, attack steps, and expected impact.
+4. **Test the attack path** — construct targeted experiments and reproducible Foundry tests.
+5. **Classify the evidence** — separate confirmed vulnerabilities from rejected hypotheses, inconclusive tests, and environment-blocked investigations.
+6. **Demonstrate impact** — report only issues supported by reproducible evidence.
 
-- Smart Contract Review Agents
-- AI Vulnerability Detection
-- Audit Report Generation
-- Security Knowledge Retrieval
-- Solidity Code Analysis
-- Automated Threat Modeling
+## Research Engineering
 
----
+### AI-Assisted Smart Contract Security
 
-## 💻 Tech Stack
+I explore AI-assisted workflows for protocol understanding and vulnerability discovery, with an emphasis on:
 
-### Blockchain
+- Protocol and dependency modeling
+- Attack-surface mapping
+- Cross-contract relationship and condition analysis
+- Hypothesis generation and test selection
+- Reproducible validation of candidate vulnerabilities
 
-- Solidity
-- Ethereum
-- EVM
-- ERC20
-- ERC721
-- ERC1155
-- Foundry
-- Hardhat
-- Truffle
-- Web3.js
-- IPFS
+Automation is used to guide investigation, not as a substitute for proving impact.
 
-### Security
+## Technical Stack
 
-- Smart Contract Auditing
-- Manual Code Review
-- Foundry Testing
-- Fuzz Testing
-- Invariant Testing
-- Slither
-- Exploit Development
-- Threat Modeling
+| Area | Technologies |
+|---|---|
+| Smart contracts | Solidity, EVM |
+| Testing | Foundry, fuzzing, invariant testing |
+| Security | Manual review, threat modeling, exploit PoCs |
+| Development | Git, GitHub, JavaScript, Node.js |
 
-### Full Stack
+## Contact
 
-**Frontend**
-
-- React.js
-- Redux
-- Tailwind CSS
-- Bootstrap
-
-**Backend**
-
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- JWT Authentication
-
-### Cloud & DevOps
-
-- AWS
-- Vercel
-- Render
-- Hostinger
-- Git
-- GitHub
+- [LinkedIn](https://www.linkedin.com/in/uday-kiran-pedda-65aa73271)
+- [X](https://x.com/Udaykir03362466)
+- [Research blog](https://blockchainsecurity-udaykiranpedda.netlify.app/)
+- [Email](mailto:peddaudaykiran1@gmail.com)
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛡️ Security
-
-- Over-Collateralized Stablecoin Protocol
-- Automated Market Maker (AMM)
-- Smart Contract Audit Reports
-- Solidity Security PoCs
-- Exploit Demonstrations
-
-### 🌐 Blockchain
-
-- MultiSig Wallet
-- Blockchain Voting System
-- Agricultural Supply Chain
-- DeFi Protocol Implementations
-
-### 💻 MERN
-
-- E-Commerce Platform
-- Student Portfolio Platform
-- School Management System
-
----
-
-## 📈 GitHub Goals (2026)
-
-- Build the best Web3 Security Learning Platform
-- Release open-source AI Security Agents
-- Publish high-quality audit reports
-- Contribute to leading DeFi protocols
-- Help developers build secure smart contracts
-
----
-
-## 📚 Currently Learning
-
-- Advanced DeFi Architectures
-- Cross-chain Security
-- Zero-Knowledge Proofs
-- Formal Verification
-- AI Agents for Security Research
-- Automated Smart Contract Analysis
-
----
-
-## 🌐 Connect With Me
-
-📧 Email: **peddaudaykiran1@gmail.com**
-
-💼 LinkedIn:
-https://www.linkedin.com/in/uday-kiran-pedda-65aa73271
-
-🌐 Portfolio:
-https://udaykiranhub.github.io/portfolio/
-
-📝 Security Blog:
-https://blockchainsecurity-udaykiranpedda.netlify.app/
-
----
-
-> "Secure Code. Secure Protocols. Secure Future."
