@@ -21,7 +21,7 @@ My research combines manual code review, protocol-level threat modeling, hypothe
 | Cantina | Revert Finance — Lending | 1 submission listed | 4 / 59 · $154 | [Profile](https://cantina.xyz/u/udaykiranpedda) |
 | Cantina | Revert Finance — StableSwap Hooks | 3 submissions listed | 26 / 269 · $108 | [Profile](https://cantina.xyz/u/udaykiranpedda) |
 | Cantina | Reserve Protocol — Governor | 3 submissions listed | 5 / 129 · $86 | [Profile](https://cantina.xyz/u/udaykiranpedda) |
-| HackenProof | Not publicly disclosed | 1 High · 1 Medium paid report | $89.62 total profile earnings | [Profile](https://hackenproof.com/hackers/udaykiranhub/) |
+| HackenProof | TipRun | 1 High · 1 Medium paid report | $89.62 total profile earnings | [Profile](https://hackenproof.com/hackers/udaykiranhub/) |
 | Immunefi | Firelight audit competition | See public competition record | $1 shown on leaderboard | [Leaderboard](https://immunefi.com/audit-competition/audit-comp-firelight-1/leaderboard/) |
 
 *Code4rena severities reflect the public profile. Cantina submission counts are not asserted to be accepted findings. HackenProof does not publicly disclose the report names on the profile. Immunefi leaderboard figures are not presented as a confirmed bounty-program finding.*
