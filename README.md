@@ -24,6 +24,7 @@ My research combines manual code review, protocol-level threat modeling, hypothe
 | HackenProof | TipRun | 1 High · 1 Medium paid report | $89.62 total profile earnings | [Profile](https://hackenproof.com/hackers/udaykiranhub/) |
 | Immunefi | Firelight audit competition | 1 High | $1 shown on leaderboard | [Leaderboard](https://immunefi.com/audit-competition/audit-comp-firelight-1/leaderboard/) |
 | HackenProof | 	Rain (USDR) | 3 High . 2 Medium paid report | 3$ total profile earnings | [Profile](https://hackenproof.com/hackers/udaykiranpedda) |
+
 *Code4rena severities reflect the public profile. Cantina submission counts are not asserted to be accepted findings. HackenProof does not publicly disclose the report names on the profile. Immunefi leaderboard figures are not presented as a confirmed bounty-program finding.*
 
 ## Research
