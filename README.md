@@ -23,7 +23,7 @@ My research combines manual code review, protocol-level threat modeling, hypothe
 | Cantina | Reserve Protocol — Governor | 3 submissions listed | 5 / 129 · $86 | [Profile](https://cantina.xyz/u/udaykiranpedda) |
 | HackenProof | TipRun | 1 High · 1 Medium paid report | $89.62 total profile earnings | [Profile](https://hackenproof.com/hackers/udaykiranhub/) |
 | Immunefi | Firelight audit competition | 1 High | $1 shown on leaderboard | [Leaderboard](https://immunefi.com/audit-competition/audit-comp-firelight-1/leaderboard/) |
-| HackenProof | 	Rain (USDR) | 3 High . 2 Medium paid reports |Rank-30 3$ total profile earnings | [Profile](https://hackenproof.com/hackers/udaykiranpedda) |
+| HackenProof | 	Rain (USDR) | 3 High . 2 Medium paid reports |Rank-30/150  3$ total profile earnings | [Profile](https://hackenproof.com/hackers/udaykiranpedda) |
 
 
 
