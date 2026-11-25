@@ -21,9 +21,9 @@ My research combines manual code review, protocol-level threat modeling, hypothe
 | Cantina | Revert Finance — Lending |1 Medium | 4 / 59 · $154 | [Profile](https://cantina.xyz/u/udaykiranpedda) |
 | Cantina | Revert Finance — StableSwap Hooks | 3 Mediums | 26 / 269 · $108 | [Profile](https://cantina.xyz/u/udaykiranpedda) |
 | Cantina | Reserve Protocol — Governor | 3 Mediums | 5 / 129 · $86 | [Profile](https://cantina.xyz/u/udaykiranpedda) |
-| HackenProof | TipRun | 1 High · 1 Medium paid report | $89.62 total profile earnings | [Profile](https://hackenproof.com/hackers/udaykiranhub/) |
-| Immunefi | Firelight audit competition | 1 High | $1 shown on leaderboard | [Leaderboard](https://immunefi.com/audit-competition/audit-comp-firelight-1/leaderboard/) |
-| HackenProof | 	Rain (USDR) | 3 High . 2 Medium paid reports |Rank-30/150  3$ total profile earnings | [Profile](https://hackenproof.com/hackers/udaykiranpedda) |
+| HackenProof | TipRun | 1 High · 1 Medium | $89.62 total profile earnings | [Profile](https://hackenproof.com/hackers/udaykiranhub/) |
+| Immunefi | Firelight audit competition | 1 High | $1  | [Leaderboard](https://immunefi.com/audit-competition/audit-comp-firelight-1/leaderboard/) |
+| HackenProof | 	Rain (USDR) | 3 High . 2 Medium |Rank-30/150  3$ total profile earnings | [Profile](https://hackenproof.com/hackers/udaykiranpedda) |
 
 
 
